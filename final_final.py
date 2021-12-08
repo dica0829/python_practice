@@ -189,3 +189,4 @@ choose()
 vsMonster(Goblin, "고블린")
 
 print("플레이 해주셔서 감사합니다.")
+#123
